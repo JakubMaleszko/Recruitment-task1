@@ -1,0 +1,553 @@
+[1584969745903] [eab576a7-ea7f-4ce1-acfb-4e97d3a4a5bb] [warn] AccessDenied: You are not authorized to access this page
+[1584969746077] [038f719a-3205-47b3-ade2-7de4e32f9942] [info] GET /projects/tool/tool HTTP/1.1
+[1584969746817] [aa76c6f9-ef14-4a9a-a85b-3f519014a3ed] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969746977] [9b2c1689-7ef5-4b5b-8068-c9f80dc41cc4] [info] GET /favicon.ico HTTP/1.1
+[1584969747159] [bfc6deab-fc3b-4e66-af55-c95c4c2b6ec6] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969748128] [d77a95f9-26f8-4fc4-94d2-aedd83f35fb1] [warn] RestClient::Conflict: 409 Conflict
+[1584969748486] [ff77f0eb-ecaf-44dd-b190-1c8822bf5af8] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969749370] [cf0afa84-19b5-4634-b431-211f01bce102] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969750356] [32973eea-301a-403e-bf09-ff72ae278717] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969751273] [78e160fe-76d1-4358-b171-80243b3d1cad] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969751670] [217cbc1d-e951-4ab7-ada7-94486c6a254d] [error] URI::InvalidURIError: URI must be ascii only
+[1584969752544] [bca2d6df-370b-4760-ac38-7a7061c5aab4] [info] GET /projects/tool/tool HTTP/1.1
+[1584969752609] [6f7f8c24-47ff-4131-b5be-f561b1fcab46] [info] GET /reset.css HTTP/1.1
+[1584969752918] [bd254459-4167-4756-a3b0-0b5b2dc86285] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969753605] [8713bc51-df16-4094-9432-d78a013b9e9a] [warn] RestClient::Conflict: 409 Conflict
+[1584969754485] [a5cedf44-e668-4de6-91fc-e5ca1dc1dd55] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969754912] [9ddb66d4-c404-4b53-a886-7838655b8e1e] [info] GET /favicon.ico HTTP/1.1
+[1584969755480] [0a5ec197-961b-445e-914c-8a57b1b1bd2b] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969755675] [fad615c7-c598-40e7-bc4f-2a8941b98039] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969756174] [b895550c-fa4f-450f-a6e9-65ac35ccf3cc] [info] GET /favicon.ico HTTP/1.1
+[1584969757132] [819b84cb-9bcb-48e8-a108-2f1842593460] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969757184] [95406e0d-2e89-4b44-888b-f500dd58f6ff] [info] GET /projects/tool/tool HTTP/1.1
+[1584969757841] [e0a3f0ee-00ab-4aad-8cd4-2be0d05bdf60] [info] GET /favicon.ico HTTP/1.1
+[1584969758408] [1d0752f9-6f37-49d2-932d-e43449daa753] [info] GET /resume HTTP/1.1
+[1584969758710] [2a9176e9-6747-417d-9fa3-1e8df60ebde4] [info] GET /resume HTTP/1.1
+[1584969758911] [e733505f-de1c-4d9a-aede-50f342147144] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969759222] [a165734c-b1b4-48c7-9931-4f39dad14649] [info] GET /favicon.ico HTTP/1.1
+[1584969759953] [7771e3f1-e749-49cb-a6d3-25c02cf8a95a] [info] GET /projects/tool/tool HTTP/1.1
+[1584969760637] [b90fdfc4-8986-449c-896d-8f511be1c18a] [warn] AccessDenied: You are not authorized to access this page
+[1584969761466] [6ba3f213-4303-4dda-bd8d-b16d5bd27000] [info] GET /projects/tool/tool HTTP/1.1
+[1584969761466] [fc1f53b6-143d-4b31-b347-ad732f61c8d8] [error] URI::InvalidURIError: URI must be ascii only
+[1584969762383] [9fa91634-0638-414d-ae19-66831dac9bd0] [info] GET /favicon.ico HTTP/1.1
+[1584969762574] [d2d5f21d-e56a-4ee1-95dd-cf90dc347e37] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969763337] [da063a93-8fa9-4bae-9198-f10bd7ab318e] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969764128] [c55a7292-9f7b-4544-84e9-eed6949e7a06] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969764240] [fb9d7456-1ae8-473d-b18d-46bb1cd3d1df] [warn] AccessDenied: You are not authorized to access this page
+[1584969765204] [a1b6e1cd-0fe6-40d8-a3f3-2f69825be714] [info] GET /favicon.ico HTTP/1.1
+[1584969765240] [27a3130f-2e81-4b68-b20d-529688e877b7] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969765622] [cdfee80c-eb9a-4509-bf6e-6e28168650ab] [info] GET /resume HTTP/1.1
+[1584969766443] [5e339424-07c1-4548-a78a-4928e3cb5134] [error] ActiveRecord::ValueTooLong: Mysql2::Error: Data too long for column
+[1584969766774] [1050a775-b2a2-499f-a254-2ff05036387e] [info] GET /resume HTTP/1.1
+[1584969766959] [45515a58-e3b6-4d83-b7ea-b8a140514425] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969767023] [fff21d67-98a9-48df-939f-7b584b7bda2a] [info] GET /favicon.ico HTTP/1.1
+[1584969767555] [18e0f8cc-713f-4b0d-9b10-6d7dc0bf8a6d] [info] GET /resume HTTP/1.1
+[1584969768234] [f8b34b1c-e76c-45e2-b9d3-a34f63cefe53] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969768619] [35052c04-2314-4eb3-a5a9-39c946f66f62] [info] GET /projects/tool/tool HTTP/1.1
+[1584969768809] [29e7297c-5328-4939-a8a4-81de4a9d3269] [error] RestClient::Exceptions::OpenTimeout: Timed out connecting to server
+[1584969769359] [052461f0-6350-4571-ae7f-15090263c837] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969769570] [d4faaa7f-4e2c-4ec5-9405-e220a74af3c1] [warn] RestClient::Conflict: 409 Conflict
+[1584969770561] [4463b624-de90-4550-811c-4eed4099581a] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969770710] [d4111969-9481-4ce8-bd72-c6c6f283769d] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969771632] [9c82feaa-9492-4483-b2fa-ef721fb71290] [error] CSV::MalformedCSVError: Illegal quoting in line #{RANDOM}
+[1584969771992] [10f74044-cb26-4de8-8e34-12ee859acdc7] [info] GET /projects/tool/tool HTTP/1.1
+[1584969772882] [031f7760-778e-4436-9ed3-3c97a772ae5f] [info] GET /projects/tool/tool HTTP/1.1
+[1584969773363] [45b7199d-cc1e-4c75-8186-871e0ad84114] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969773770] [4734929d-a463-4374-9da7-33b1ab4dc035] [info] GET /reset.css HTTP/1.1
+[1584969773975] [606f5fae-192c-48d0-bd58-2948a1e526c7] [info] GET /projects/tool/tool HTTP/1.1
+[1584969774248] [1ce0b47c-841e-4a02-be32-c0821c970b81] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969774819] [ca019c8f-c9c1-4a7c-83a1-be0021ccb730] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969775650] [0165e3fd-7ef0-4213-9343-90f401a7138e] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969776495] [2c86239a-4c1f-4b5f-85db-1463f3e07f0d] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584969777078] [818d145f-74a9-4c2d-a26a-a9db3eaea519] [info] GET /reset.css HTTP/1.1
+[1584969777586] [66f41e15-9490-4bf1-a807-503f5b5c931e] [info] GET /favicon.ico HTTP/1.1
+[1584969778295] [aad3f192-18a0-495e-be8c-68f5dff2eda1] [error] Elasticsearch::Transport::Transport::Errors::NotFound: [404]
+[1584969778349] [5e7fb025-0f8e-4f2f-8120-571442e2961b] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969778691] [dc05966a-8670-4e5f-a2cf-3b73b39dd7d5] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969779051] [f3ee0e27-1c53-4a7d-95e9-445387491a36] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969779276] [27a39c28-e4bb-40f3-b373-55062ddade62] [info] GET /reset.css HTTP/1.1
+[1584969779307] [98dc9aaa-f36d-4575-9aee-3183a83f1f69] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584969780025] [1ca7bea2-1da9-4ac3-bd42-a3a48334dea3] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969780519] [b257af15-625c-47c8-96e3-ae5a32966f77] [warn] RestClient::Conflict: 409 Conflict
+[1584969780735] [bed7b188-1d85-4429-bb32-28c33519ecec] [info] GET /resume HTTP/1.1
+[1584969781259] [48b25a26-296a-4a59-b49f-e4d9d7c69aef] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969781531] [870ee85f-a0d9-4cc3-aff9-690d5c4f2f6b] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969782410] [ccaa038a-ede0-4f24-91c9-26ff301044f7] [info] GET /reset.css HTTP/1.1
+[1584969783120] [8a691b1c-9c44-4e86-b45c-c5b646fba3e5] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969783527] [6417610a-7948-493b-9bb7-12875186fefd] [info] GET /projects/tool/tool HTTP/1.1
+[1584969784162] [2a3bfeec-c5f5-43eb-b6e5-41d6a6354632] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969784876] [bb91424e-cb52-427d-8c6e-3ca8aa51eae7] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969785661] [dbd617dc-e899-435f-9fa4-cf485f77b489] [warn] AccessDenied: You are not authorized to access this page
+[1584969786380] [cf583f66-16b3-4331-8438-48df8419d799] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969787252] [452f8287-a1ed-4e75-b030-fdef64b28b52] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969788061] [65a1b5d6-291e-4fe7-839b-7ea81b1efa8d] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969788552] [578569cb-9bae-4559-b680-860a99eaa862] [info] GET /projects/tool/tool HTTP/1.1
+[1584969789394] [f7f3f789-7c23-4002-adfe-f6bc33da04e3] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969790040] [cbe32b06-6a9f-4a50-bfce-5b9c870fff57] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969791028] [0e139f7e-e3e9-40f4-9a23-6401f6284e25] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969791526] [416d64cd-f707-4e70-9f23-89b1886393e5] [info] GET /resume HTTP/1.1
+[1584969791653] [e04450cc-b3ab-45b7-b644-16abe161a401] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969792455] [3e96b856-42cf-4681-9137-6bd9e6f897cf] [info] GET /projects/tool/tool HTTP/1.1
+[1584969793433] [d756d93e-2c0e-4450-8c9b-8fdee0936480] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584969793655] [c1c75a26-e164-45cd-bcbb-b61453ef590e] [info] GET /resume HTTP/1.1
+[1584969793960] [194a86b0-83e4-4135-ad82-90b575cb1197] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969794883] [aa8f689e-2a75-4c70-88b4-6cb145532afe] [error] Elasticsearch::Transport::Transport::Errors::NotFound: [404]
+[1584969795427] [2283d10a-2a33-4618-9cc7-e1dbb090303d] [error] URI::InvalidURIError: URI must be ascii only
+[1584969796010] [44186ed1-cb07-43d1-bd94-bbf2c25fa6b0] [warn] RestClient::Conflict: 409 Conflict
+[1584969796537] [54023bac-dabe-4bd1-9340-463d22f1f879] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969796744] [0dc605c0-45c4-4eb1-91e9-4c1f5ba069cb] [info] GET /favicon.ico HTTP/1.1
+[1584969796794] [e227e478-5597-468c-a3df-c6ca72c97aa6] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969797694] [7d0dd9f7-12ab-4578-8072-e0ff889d8d95] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969798377] [0e396c9d-e3a9-4c87-8e1e-6be2104d7766] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969799104] [4efe376b-799a-4fca-ad51-40077634fb26] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969799448] [988cf36a-0418-4d4c-aa78-91e97c0e505a] [info] GET /reset.css HTTP/1.1
+[1584969799849] [720ef45b-16a5-480a-981e-0a8572951a9f] [info] GET /projects/tool/tool HTTP/1.1
+[1584969800355] [234ae4d6-f94e-4333-ad1f-827712163f67] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969800970] [b89f1e49-6769-414c-8128-a76495cf1cb5] [info] GET /resume HTTP/1.1
+[1584969801011] [dfd2bec1-1c46-48d6-81ae-c59ee73dd1e2] [info] GET /favicon.ico HTTP/1.1
+[1584969801877] [48fe25c0-d9eb-4c44-82a3-d2dde8e1d478] [info] GET /projects/tool/tool HTTP/1.1
+[1584969802853] [29c88652-28f2-469d-8872-dc65ef181521] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969802910] [102fc27f-4774-417c-af6e-3bc2c07ddb18] [info] GET /favicon.ico HTTP/1.1
+[1584969803802] [d5d11669-0921-48de-9083-cb68bfa8a1b7] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969803850] [efda84a8-49e7-48ee-adbf-871352922037] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969804307] [61b89c60-0496-4f1a-b82b-c4314668c389] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969804882] [bf40754d-7569-43a2-b79c-08df9c324399] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969805291] [d9561b7b-1941-409b-95a2-825b4211f29b] [info] GET /projects/tool/tool HTTP/1.1
+[1584969805986] [663b2825-e02f-41f7-8c5a-0020aacabd53] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969806569] [e143223f-b465-47d9-adc0-6d8ce78996a0] [warn] AccessDenied: You are not authorized to access this page
+[1584969807367] [69fc6acd-fc15-43e3-adc9-8e51e1af5c86] [info] GET /resume HTTP/1.1
+[1584969807736] [5f52212d-a763-459b-93a4-6f890ce7a394] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969808586] [0d250245-502b-4439-a0ce-2acd85f86017] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969808600] [1f89c378-81f3-4dac-9a4c-7c6183be8715] [info] GET /resume HTTP/1.1
+[1584969809561] [89d0cc31-1624-4dc6-9b80-d32c5c637f2d] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969809849] [12e1e3f5-ad8d-45be-b750-15a782f29967] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969810580] [63ce2e43-666e-4235-a0f5-81d211c9bce2] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969811095] [5ebcf8dd-a3fe-4e08-bf37-23d065124d03] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969811516] [92e3cdbd-358b-4def-98e9-2e03124784c7] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969811669] [2d168da0-6f1f-4cfb-aa39-653ea97bb33b] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969811867] [e68f7c6f-054e-499b-b061-4f11e2594ba1] [info] GET /reset.css HTTP/1.1
+[1584969812829] [c93566da-4d62-4e46-bd7a-8dd2621deda4] [error] RestClient::InternalServerError: 500 Internal Server Error
+[1584969813431] [ead55d7b-32d8-4e8e-aff5-95219d18935d] [warn] AccessDenied: You are not authorized to access this page
+[1584969813543] [949f6a24-bd0f-4047-bc32-386ba225c6e0] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969813634] [673b39fd-ecf6-45da-8a99-ed56ba9009dc] [info] GET /resume HTTP/1.1
+[1584969814562] [60c3c1ff-2b98-4ae7-8db3-13d3cd9687d4] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969815510] [68cc2ed3-8da9-41b0-83ab-cf64cc998791] [info] GET /projects/tool/tool HTTP/1.1
+[1584969816132] [6417aadd-674f-491b-98ea-5fe7ae075919] [info] GET /resume HTTP/1.1
+[1584969816618] [43256707-fa94-431f-b001-4f635c7ab83c] [warn] AccessDenied: You are not authorized to access this page
+[1584969817484] [ad44c3ac-7f0a-47f0-bfa3-c41fe43015f4] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969817996] [efa2a67c-9ef7-4ccd-8db0-4ce7815ed21d] [info] GET /favicon.ico HTTP/1.1
+[1584969818612] [ee9dbb26-18ad-4c08-b1f3-48f8163fc3a1] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969819011] [7c479ad3-459a-4d45-9674-8f50297920dc] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969819148] [e3d9ebc5-723c-4e26-9b6a-99093c8481d4] [info] GET /reset.css HTTP/1.1
+[1584969819327] [455236fa-04dd-45c4-8461-039ef7b84528] [warn] AccessDenied: You are not authorized to access this page
+[1584969819848] [e1c0c5dd-d75b-4bec-bec2-5409c0ef9c03] [warn] AccessDenied: You are not authorized to access this page
+[1584969820369] [7ee8e75c-ceae-4dce-83b2-beb0ca7264d2] [info] GET /favicon.ico HTTP/1.1
+[1584969821294] [53a174cf-d32a-4cf2-bd80-a2996471239d] [info] GET /projects/tool/tool HTTP/1.1
+[1584969822138] [d191f550-5b70-4d78-94a8-ae149c085981] [warn] RestClient::Conflict: 409 Conflict
+[1584969822375] [84ffabf0-48bc-45ec-8e9f-31b5d3aa2688] [warn] AccessDenied: You are not authorized to access this page
+[1584969822667] [c870c144-8ab9-4335-86e6-c45da3bfa458] [info] GET /favicon.ico HTTP/1.1
+[1584969822975] [98246402-4cd0-498c-b09f-105f91c8bc5b] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969823524] [8b3be9dd-6f5c-48c5-b3ea-1a031c480e5a] [info] GET /favicon.ico HTTP/1.1
+[1584969823845] [a186da45-889e-43c1-8373-7674a854355f] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969824364] [43ad2f40-1336-4560-8fa7-735a0124c0a2] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584969824446] [e7e648a9-fbca-4e72-b2e9-964018189dd4] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969824836] [6a63a959-d226-4dde-b217-3ff055820f57] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969825456] [c5056eeb-8733-4216-98ee-14d6e943b6c2] [info] GET /favicon.ico HTTP/1.1
+[1584969826318] [9d36fe07-3207-4041-9a72-679626f94bb5] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969827008] [2e6070ad-343b-4bb6-a569-a734a11708db] [error] ActiveRecord::ValueTooLong: Mysql2::Error: Data too long for column
+[1584969827687] [d3e57ea6-baf8-4f2b-be7a-0d1a74a8fa4c] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969828635] [94217cf9-13ff-4ab3-a2b2-139dd05df9b5] [info] GET /favicon.ico HTTP/1.1
+[1584969829578] [bfe72da3-8119-4b3b-972a-3298c2c3c693] [info] GET /projects/tool/tool HTTP/1.1
+[1584969830040] [776bf45b-68f8-4561-90c5-b654e83ff4b9] [error] URI::InvalidURIError: URI must be ascii only
+[1584969830609] [1b2c7156-7931-4bcf-925c-2df8cc2faed2] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969831137] [79739ef7-6f8d-47e5-8604-57a9905d243f] [info] GET /projects/tool/tool HTTP/1.1
+[1584969832102] [0af00a0e-94fd-4e4c-93b2-eb445406a86d] [info] GET /reset.css HTTP/1.1
+[1584969832887] [6e352b9d-d0bf-4334-bcd9-8e694b1cb094] [info] GET /projects/tool/tool HTTP/1.1
+[1584969833709] [ada2dfcc-c509-4e07-9c92-a574ef15ee16] [info] GET /favicon.ico HTTP/1.1
+[1584969834403] [19e10ba9-b94f-45c5-9266-17051878da18] [error] RestClient::InternalServerError: 500 Internal Server Error
+[1584969834671] [3e435a25-9a11-4ab4-b6cc-87338fa0ab5f] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584969834713] [304a1d91-c9df-4fd4-9d4f-c38c3408164b] [info] GET /resume HTTP/1.1
+[1584969834981] [1717f910-d525-49f4-811d-b66d1666fb33] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969835909] [5daed45e-e8ad-405d-9642-054c928437b1] [info] GET /projects/tool/tool HTTP/1.1
+[1584969836090] [f41ffab3-f27b-4371-8278-dc6153a6f2e9] [info] GET /reset.css HTTP/1.1
+[1584969836804] [770b51eb-a827-4070-9fdc-ff7bdd8bb5f5] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969836838] [bd5e9933-9047-4e7c-960d-af05ded41392] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969837621] [7763cc23-7cb5-4099-baa3-ccbb1fe1d4da] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969837987] [38365e4d-49b2-46e1-9e60-8c9a06ef480f] [info] GET /resume HTTP/1.1
+[1584969838447] [2bd7dea3-38f3-4e18-a946-ae00d72bf2c0] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969838690] [aea1c5e1-f808-49fd-9461-bbbd3fda6057] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969838879] [6b7d09da-7ac9-454d-8854-0f2ab95a2734] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969839593] [5c6e205a-06dd-4f9b-86c5-c64b0e778959] [info] GET /projects/tool/tool HTTP/1.1
+[1584969840120] [cefa0157-7991-4953-9e3c-34a6801477e5] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969840683] [0da43bf2-bf69-47ae-9899-12c285d143a0] [info] GET /resume HTTP/1.1
+[1584969841420] [c29c9178-5aec-4b89-956d-6c6891fc5f77] [info] GET /projects/tool/tool HTTP/1.1
+[1584969841559] [8a92d06c-32a2-4e55-8da8-31a14fb84862] [warn] RestClient::Conflict: 409 Conflict
+[1584969841851] [6cbfb0aa-1136-47bc-bd6a-533c11299738] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969842373] [b22c5ba0-7972-4430-9b62-df935067c0d2] [info] GET /resume HTTP/1.1
+[1584969842701] [58d19245-d3a7-41ce-81d1-8963195b7b06] [error] ActiveRecord::RecordNotFound: Couldn't find Model with id=#{RANDOM}
+[1584969842844] [4527c9e2-a1db-4886-8c8b-3490aa9fe886] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969842955] [a7e66747-842c-4912-aa6a-27cff0a4c77d] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969843667] [92e9e80b-96f2-4c6b-ae16-03876ab98113] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969844368] [ad997556-6395-40f6-bcb5-b8eabecb8fca] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969845134] [f654bb89-ba26-4338-90fc-1a2bd1c3f2c3] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969845234] [29c0aa6e-5b9c-4d10-b5b1-ed88e871337f] [info] GET /favicon.ico HTTP/1.1
+[1584969846087] [69275038-1234-4c1e-aedd-c2f731e2f019] [info] GET /reset.css HTTP/1.1
+[1584969846510] [a59c1996-894a-4706-b474-b631cff58870] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969847416] [e0056aa0-ceec-4b2d-8f20-e06f403f6d9d] [info] GET /reset.css HTTP/1.1
+[1584969847960] [aaeea031-3790-4f6a-baf8-5c2e1bed6e8a] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969848539] [711ab0f2-3215-47b4-a1d7-76a7da0c4e1b] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969849092] [522adfc1-cbfa-4264-bef4-f5b9b6742378] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969849258] [28d7d2cb-5738-4439-bd1e-f58f11032e13] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969850047] [642fe989-0a25-4eba-99bb-54542a5ed4ea] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969850782] [f2bffa55-5106-49e5-8e46-7adbf5311f1e] [info] GET /resume HTTP/1.1
+[1584969851141] [3ec95d97-78be-4c1f-8788-83ae2818dd9b] [info] GET /favicon.ico HTTP/1.1
+[1584969851854] [ac9699a4-dd81-4a61-bb1d-3322432098a9] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969852623] [74264527-f0df-4276-af2a-ae4e7763ea9d] [error] Elasticsearch::Transport::Transport::Errors::NotFound: [404]
+[1584969852771] [4c8cc303-b222-4311-bcdf-5b5ec5d4c30e] [info] GET /projects/tool/tool HTTP/1.1
+[1584969853736] [d4e3ba77-fce5-411f-a403-d330e35f0e70] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969854210] [d3ac5c2b-8159-46ec-be6f-26fff52574b8] [warn] RestClient::Conflict: 409 Conflict
+[1584969854864] [ba8ba97c-7a35-45f8-adc3-cc9dab6931f9] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969855092] [0ed14304-445b-42ef-9197-e7386fe2f464] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969855881] [c66fb806-a3cd-42af-99c2-d11b98d68cc8] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969856432] [1882225a-10b0-4bbb-a558-4b29b4ead013] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969856444] [cc25b9f9-2195-4afb-9624-114549702340] [warn] AccessDenied: You are not authorized to access this page
+[1584969857164] [1548fca6-668e-4ace-870d-0efabe4750ab] [info] GET /favicon.ico HTTP/1.1
+[1584969857387] [51bc5b93-c0c4-48db-b4aa-90cfd6db17ac] [info] GET /favicon.ico HTTP/1.1
+[1584969857926] [64d5ab42-e93c-4f95-9194-cffed7b9c905] [warn] AccessDenied: You are not authorized to access this page
+[1584969858630] [b1df2981-74da-4493-bc0b-7f808707d6e1] [info] GET /resume HTTP/1.1
+[1584969859513] [d7c0d4fb-8030-47fa-91d4-cc08472274f4] [info] GET /reset.css HTTP/1.1
+[1584969860392] [685f7559-c769-4e96-8266-e3a114d9d282] [info] GET /projects/tool/tool HTTP/1.1
+[1584969861347] [f3e53927-7b58-484c-83e7-02ef726e9754] [info] GET /favicon.ico HTTP/1.1
+[1584969862287] [a30eb51f-be75-48f2-8f26-cd26d1d256ea] [info] GET /projects/tool/tool HTTP/1.1
+[1584969862875] [d3b5be13-aa4a-4711-9b70-20d6b9a6ea73] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969863634] [a879e41e-5968-4fde-891a-79b1b269faf8] [warn] AccessDenied: You are not authorized to access this page
+[1584969864458] [2bedcbd9-1d52-4c59-af0e-6a902f6e2bf8] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969864507] [42794341-a049-497a-b953-23b39cf6dfbe] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969864554] [16adde5b-b90e-4fb9-80f0-4389c95d0616] [info] GET /projects/tool/tool HTTP/1.1
+[1584969864628] [7b3d94d5-1602-4b59-8195-474b1f0d0a16] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969864947] [762405de-0d7f-4a0d-b21f-156a12e0a20b] [info] GET /projects/tool/tool HTTP/1.1
+[1584969865805] [c0c93667-2e74-40d7-a961-6d18772f1be1] [info] GET /reset.css HTTP/1.1
+[1584969866042] [6641b0aa-752a-4821-b50c-996c904cda22] [info] GET /favicon.ico HTTP/1.1
+[1584969866203] [b2acff5c-78ac-45ac-aad1-628b14eb3c4f] [error] ActiveRecord::RecordNotFound: Couldn't find Model with id=#{RANDOM}
+[1584969866830] [50d50b88-62a4-4bea-ac9a-e7a7014163ae] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969866888] [5b6f09c0-4542-4a81-9190-c50311e6017e] [info] GET /projects/tool/tool HTTP/1.1
+[1584969867301] [af1fa544-4611-4dfe-a913-5c938d35c5e5] [warn] AccessDenied: You are not authorized to access this page
+[1584969868092] [6ae792f4-1617-4600-bc01-cfb13d4ed640] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969868397] [62537185-d60b-45b9-85a3-cd1843e7c908] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969869048] [f9d1b973-10fa-4971-929a-a367df1b9312] [warn] AccessDenied: You are not authorized to access this page
+[1584969869777] [3296f17c-7220-4748-b75f-3bb6e4b002db] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969869942] [b5108cf5-c858-4157-bf26-c8ac6e202dce] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969870931] [82e93132-c8bf-402f-8af8-1dc90cbb07f8] [info] GET /projects/tool/tool HTTP/1.1
+[1584969871008] [dcc60e80-6bc8-48e3-893d-5bbd8138898d] [warn] AccessDenied: You are not authorized to access this page
+[1584969871154] [eadac28c-41eb-4e45-b729-4a2bae29be3d] [warn] RestClient::Conflict: 409 Conflict
+[1584969871399] [5f19667e-716d-446e-89bc-e51474b37a72] [info] GET /projects/tool/tool HTTP/1.1
+[1584969871980] [e9cafaf5-3283-41e5-abe1-b0d59436937a] [warn] AccessDenied: You are not authorized to access this page
+[1584969872808] [3eb4dc29-f1f7-4c22-9e17-4cd19c14f553] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969873131] [64d259ea-2e34-450f-a6ed-8bc9ccb4a988] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969874031] [9350de76-49c9-4025-827b-94d8536afd5e] [error] RestClient::Exceptions::OpenTimeout: Timed out connecting to server
+[1584969874973] [aa83f41e-75f9-4158-a5c0-16d14e613704] [error] URI::InvalidURIError: URI must be ascii only
+[1584969875598] [547eeeba-f91e-4e5d-9707-65c64eeb3b5d] [error] RestClient::InternalServerError: 500 Internal Server Error
+[1584969875804] [dac6db1c-f070-4a0c-8012-58a1ed0bc269] [info] GET /resume HTTP/1.1
+[1584969876684] [2548cf7d-a9ac-49ce-9239-eed8e69c75bc] [info] GET /favicon.ico HTTP/1.1
+[1584969876747] [e45c474a-3e57-4604-b3d5-fb1530af816b] [info] GET /projects/tool/tool HTTP/1.1
+[1584969876998] [f14c6f9d-c95e-4d9d-ad9f-e2c75eec224a] [warn] AccessDenied: You are not authorized to access this page
+[1584969877510] [8bf16140-11bc-44f8-b213-c85214a0aaa8] [error] URI::InvalidURIError: URI must be ascii only
+[1584969878488] [037c1b07-2203-4d3f-803f-1fd7e2ba5c28] [error] URI::InvalidURIError: URI must be ascii only
+[1584969879221] [32061da2-2b27-4b23-ae33-f5c162495666] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969879578] [fc70c9d2-0e7c-49fd-9fa6-bd0d7528d0b0] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969879597] [b1dca5e5-3278-46bf-b68c-e62a08e3f7c7] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969879649] [ef25799a-655d-4805-aad4-c334a922edec] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969880529] [c9bdd4e3-e4bd-4755-b5ae-86b64d897f4b] [info] GET /resume HTTP/1.1
+[1584969881368] [b8e200e9-8e5f-4502-8a5e-bf51c0cd14a8] [error] CSV::MalformedCSVError: Illegal quoting in line #{RANDOM}
+[1584969881671] [a40cb271-3ff9-4598-bb6f-fc0c3c4118a9] [info] GET /reset.css HTTP/1.1
+[1584969881976] [7709fe1f-0ac8-4568-b963-38fa49370b9e] [info] GET /resume HTTP/1.1
+[1584969882914] [c66cf01a-a710-4688-9e6f-7005525db886] [info] GET /resume HTTP/1.1
+[1584969883528] [13a5e14c-57f6-411a-803f-50775ca4461c] [info] GET /reset.css HTTP/1.1
+[1584969883566] [82274af7-0d69-453f-a75c-edf76fe11404] [error] ActiveRecord::RecordNotFound: Couldn't find Model with id=#{RANDOM}
+[1584969884016] [5bab757a-1136-4c4a-9a20-6b04fe1b792b] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969884588] [37e0b4a6-5a79-434e-bbbd-7e4331e15ae1] [warn] RestClient::Conflict: 409 Conflict
+[1584969884590] [ee24a3b5-675f-404c-8d79-0f89823d4dd0] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969885582] [ca0a9b69-118b-4b9e-bd07-31152d489cda] [info] GET /reset.css HTTP/1.1
+[1584969885925] [71863cd0-1edd-4bed-a598-2878de1bfb1f] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969886474] [afe3f9ef-c124-43eb-87bc-5cf024fff3b7] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969886546] [76860ad6-d4d1-4350-a355-a44ea3ad0f0f] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969887321] [ddd47cc3-e6bf-4865-90e4-d3b7b0fec79a] [info] GET /favicon.ico HTTP/1.1
+[1584969887646] [0fc03efd-640a-417d-afe2-179aec3ebe94] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969888328] [f2425696-0aaa-43d2-b4ea-e9ac18b7ea54] [info] GET /resume HTTP/1.1
+[1584969888758] [1e2375bb-df1d-4d0c-a2c3-b5097db869c3] [error] RestClient::Exceptions::OpenTimeout: Timed out connecting to server
+[1584969889284] [6f3f5a08-8fc2-4834-8864-427e674eac47] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969889434] [2575b759-d099-400c-adf3-c7073aab8b42] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584969889473] [fdc4fc44-c113-419a-aa08-f15051186271] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969890266] [ef964b13-1d4a-4071-8e67-2b3fe988afd0] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969890460] [1a013eff-a86a-447b-ba30-c70e7c0e23dc] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969891153] [7995afec-fc6b-43c0-9f07-8cd0c5e37c16] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969892049] [b6e19c4f-c2cd-4c53-bacd-f9052007a059] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969892061] [234acc1e-40df-4d60-9a7f-a499a3e28cf9] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969892877] [9a311eb3-6e6a-4ee3-a483-dceebc0b7f70] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969893267] [f7c3211a-cb6f-4c1a-8acb-578392eedbb6] [error] RestClient::Exceptions::OpenTimeout: Timed out connecting to server
+[1584969893381] [34d7e782-3e0d-435b-8d82-9c7560910e16] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969894374] [dabee53d-9413-4793-868f-13306a21b00c] [info] GET /resume HTTP/1.1
+[1584969894441] [4fb2aca3-cdbf-449a-ab37-186828ab9287] [info] GET /reset.css HTTP/1.1
+[1584969894682] [d6e59847-befe-42af-b624-034693246081] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969895044] [4a9300b5-a8f6-4196-bae7-6549c5781aed] [info] GET /resume HTTP/1.1
+[1584969895614] [6648602a-0889-4056-b29b-54738b4ab8d2] [info] GET /reset.css HTTP/1.1
+[1584969895957] [2c19e32c-ac97-4c98-8cb9-b9427c48821f] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969896795] [1162b66c-35ca-4b9b-b5ff-4d8bb3ae7d7e] [info] GET /reset.css HTTP/1.1
+[1584969897787] [5e3ac5ef-0e5d-4f2b-a9c7-28f43869c752] [info] GET /favicon.ico HTTP/1.1
+[1584969898311] [9a211d7a-2dbd-4135-a103-9044f64c1019] [warn] AccessDenied: You are not authorized to access this page
+[1584969898370] [e37396fd-54d6-47fc-85c3-bfbb4f04fe35] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969898591] [c30bdb6a-f4db-4d13-a552-cf128245ba88] [info] GET /projects/tool/tool HTTP/1.1
+[1584969899284] [afb79044-0dc7-4c20-8474-8fb033e16499] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969900093] [cab324ef-a44b-4be5-8e12-4cc5163a1ac4] [info] GET /projects/tool/tool HTTP/1.1
+[1584969900784] [65369fb2-3b97-4af9-8d5e-5e7180de8900] [info] GET /projects/tool/tool HTTP/1.1
+[1584969901544] [93118aa5-5569-4ca1-a2fb-a9a6a376ac92] [error] RestClient::InternalServerError: 500 Internal Server Error
+[1584969901548] [d094c4df-e3d4-4e5b-8bff-1eeff008b425] [info] GET /reset.css HTTP/1.1
+[1584969901803] [a1747aa7-2fa2-4d7b-aac8-402d1ea243e3] [info] GET /projects/tool/tool HTTP/1.1
+[1584969901848] [1f91ac9f-cdfd-49ec-bc1e-c00832429bbb] [warn] RestClient::Conflict: 409 Conflict
+[1584969902198] [16ca4a86-b096-488a-aa28-bf454939f996] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969902248] [c7897d1e-a3fe-437c-b6ae-b4d95880896e] [info] GET /favicon.ico HTTP/1.1
+[1584969903027] [de5b86b1-184e-43db-a608-539c635a6dc0] [error] Elasticsearch::Transport::Transport::Errors::NotFound: [404]
+[1584969903784] [d1e46fbc-851f-491b-ad65-fd736b398c63] [info] GET /favicon.ico HTTP/1.1
+[1584969904473] [a4129220-557f-418a-a3eb-855736086d5e] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969905262] [a6610419-c729-4a2b-aebd-0145cf5eec6c] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969905512] [cbf5fd8e-1ff0-4e5a-823c-2e13c88f4151] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969905927] [bcaf854b-ca67-4ac2-9a2e-004eae7840aa] [warn] RestClient::Conflict: 409 Conflict
+[1584969906214] [7c17f6bc-601b-46a6-9f0e-4858bd713ab2] [info] GET /resume HTTP/1.1
+[1584969906840] [46ec2aa5-0286-4191-9725-81b84edac5cd] [error] ActiveRecord::RecordNotFound: Couldn't find Model with id=#{RANDOM}
+[1584969906907] [f9bddfdc-23e6-4634-914e-253ab6314044] [error] URI::InvalidURIError: URI must be ascii only
+[1584969907135] [3024597c-f493-4d74-a9c2-0a6e2316cbea] [info] GET /reset.css HTTP/1.1
+[1584969907546] [c8df01a0-aa2b-47c3-b5a5-eb0214b06172] [info] GET /projects/tool/tool HTTP/1.1
+[1584969908063] [413f03d3-c920-4adc-8fdc-6558ee0aca2f] [error] ActiveRecord::RecordNotFound: Couldn't find Model with id=#{RANDOM}
+[1584969908215] [501e215d-90c3-4862-82a4-08eac1cc48ef] [info] GET /projects/tool/tool HTTP/1.1
+[1584969908881] [282b43ec-b2fd-408f-9da8-c0fd72e6d4f7] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969909466] [ef137490-f3b4-4583-8b21-0223007ad416] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969909566] [ae4be135-d3eb-4077-b870-5b0a8c78cfda] [info] GET /reset.css HTTP/1.1
+[1584969910048] [9688d1bd-885d-4735-b234-148a395a21f5] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969910925] [d3ee00b6-908d-42ee-8d79-f17315eb327b] [warn] AccessDenied: You are not authorized to access this page
+[1584969911394] [dc183411-f4dc-4f68-99de-81c395bbf3dd] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969912303] [db31fd8e-6193-420f-a39e-6d0979f232af] [info] GET /reset.css HTTP/1.1
+[1584969912325] [59a8f6b5-7de6-40bd-811f-3344e5e38352] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969912545] [82b4421e-6b44-4fa0-a46c-977462fe4b1b] [info] GET /projects/tool/tool HTTP/1.1
+[1584969913120] [8109d17f-2b68-4721-bc65-438b65a266f2] [error] ActiveRecord::ValueTooLong: Mysql2::Error: Data too long for column
+[1584969913345] [49f440fd-a0c1-47c3-95a7-d23915779d46] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969914327] [343fa206-4d4e-46ed-94cf-afe311146719] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969914952] [5e42e6ac-9757-452d-94c6-88271153e802] [info] GET /resume HTTP/1.1
+[1584969915176] [7a551e5a-a671-41d2-a079-5c0df23e4c0d] [error] RestClient::InternalServerError: 500 Internal Server Error
+[1584969915989] [c2ffc199-b4b5-4d16-89e4-e8627f360916] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969916704] [6b9b6305-35ab-412f-a167-fb6f9cf1b116] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969917084] [e6a97ef3-0768-47a2-995b-5def58800a58] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969917586] [b9759383-132f-4e3c-ad79-ae98b03c6fb3] [info] GET /projects/tool/tool HTTP/1.1
+[1584969918480] [460056f4-2929-4a51-bce1-cc7904b65846] [info] GET /projects/tool/tool HTTP/1.1
+[1584969919187] [418c85a1-a94f-4660-b442-67ab584880e6] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969920063] [750c86dc-47e8-4793-8fa4-5e7d75badd99] [info] GET /favicon.ico HTTP/1.1
+[1584969920436] [1aa7e142-cff3-46e8-9d36-c1b2f3c62cc3] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969920629] [62379539-b988-4c0e-8dd9-99b7b95f479d] [info] GET /resume HTTP/1.1
+[1584969921118] [4909003f-c4eb-42f9-8c71-253893635989] [info] GET /favicon.ico HTTP/1.1
+[1584969922071] [347dd905-5a06-4463-9aa0-ff76e43bd6a8] [warn] AccessDenied: You are not authorized to access this page
+[1584969922830] [d7165a47-4934-459f-b88b-6bcc43bbaf71] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969923607] [df4ce224-2f64-48fa-b23a-242fc72d9e66] [info] GET /projects/tool/tool HTTP/1.1
+[1584969924597] [45ddb30b-218c-44ec-a083-9c101387a47d] [info] GET /resume HTTP/1.1
+[1584969925509] [69bda30b-83ae-4023-8faa-28c643350631] [error] RestClient::InternalServerError: 500 Internal Server Error
+[1584969926336] [26934944-3da1-46dc-abb6-591ea9d7ceb5] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969926754] [64031c06-88e5-4aa2-bed2-dbd790cf865e] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969927579] [4fe9f2ad-d569-4b77-a634-a5fc5cae6df0] [warn] AccessDenied: You are not authorized to access this page
+[1584969928169] [a6b42c1f-138b-4384-9744-de75b0e35bfb] [info] GET /projects/tool/tool HTTP/1.1
+[1584969928579] [ef2c8fe0-80d0-47e2-bdcc-da868343cfcc] [warn] AccessDenied: You are not authorized to access this page
+[1584969929392] [d5bfad52-851f-4166-8a57-cd556f3445a2] [info] GET /favicon.ico HTTP/1.1
+[1584969929500] [a6bbde03-9940-44b1-9c4a-0eb812f763a3] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969930322] [20e9f8cf-7a8f-4767-886b-b040e79fe7b7] [warn] AccessDenied: You are not authorized to access this page
+[1584969930671] [9a3ced9c-9222-4b2d-b77d-d766d2eee0d5] [error] RestClient::Exceptions::OpenTimeout: Timed out connecting to server
+[1584969931425] [234497fc-7c42-4eda-931f-04803dff9212] [warn] AccessDenied: You are not authorized to access this page
+[1584969931476] [e7211682-18cf-4188-bcc5-3998e9a466c3] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969932451] [aeecf80e-e74d-4ec3-b72a-f98c8f6decee] [info] GET /resume HTTP/1.1
+[1584969933241] [1fad5e36-1953-40f0-84a2-ddc16b2b5eac] [info] GET /favicon.ico HTTP/1.1
+[1584969933313] [dea50c50-ab97-4e4b-86cf-58e212a70c9c] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969933858] [70b50099-9351-4818-814e-201cc63da215] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969933988] [19bce179-b9fb-4ab5-98fd-560c3d947938] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969934526] [9d2f4718-65ab-4569-b792-0fd04c269a87] [info] GET /favicon.ico HTTP/1.1
+[1584969934840] [a7158999-4e1b-4f15-ba34-7ece56c102d2] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969935221] [13937674-acbe-4dae-b55a-711684e69005] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969935658] [ac0ae25d-d8a9-4284-88ed-c27a0fdb9172] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969936240] [57d3ab23-01e1-48a3-937f-57c6da7853b5] [info] GET /projects/tool/tool HTTP/1.1
+[1584969936671] [51bd82ce-1142-42d6-9d59-0b6cdf6e7f00] [info] GET /favicon.ico HTTP/1.1
+[1584969936674] [cfc15615-84aa-408b-8cf3-bbb8fc6c3f16] [warn] AccessDenied: You are not authorized to access this page
+[1584969937018] [5b9da732-68d1-4428-9be3-c9ebb1841fa6] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584969937310] [04f00f4f-1e7d-47cf-a206-d746e78c8e70] [info] GET /resume HTTP/1.1
+[1584969937607] [04fe5871-66d2-464d-aa99-2c59cc85e60a] [info] GET /reset.css HTTP/1.1
+[1584969938379] [e2bf6630-ac43-4890-83bb-734983bdd3a5] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969939275] [bc276758-4d4d-448b-b947-4b04b8ce5b5a] [error] ActiveRecord::ValueTooLong: Mysql2::Error: Data too long for column
+[1584969939695] [5bd10dc3-76f6-4311-a79e-57585d823bfb] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969939785] [93ccd898-4c62-4176-9a68-3504b7df58a9] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969940075] [751e2d16-46a7-415a-a635-25b17ee6c495] [info] GET /favicon.ico HTTP/1.1
+[1584969940641] [35c6dad7-0be6-42e2-be60-8d2fa5e7bd36] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969941352] [690dc8e5-d2f3-44ca-a7cc-c1ddf8a26e77] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969942082] [ef0c0791-efa1-4eba-a52c-ac033f00a936] [info] GET /resume HTTP/1.1
+[1584969942877] [0262a0a0-2b11-472e-b88c-165a0aaa9e2e] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969943530] [1f25e914-bc46-4da6-95ef-ae0864e3d710] [info] GET /resume HTTP/1.1
+[1584969944070] [73b5ebce-1355-4ac1-840d-5d1c11f30654] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969944982] [0a48acdf-a48d-4304-813a-1e283417ddb4] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969945784] [0dd2dfea-ac97-4068-949a-1b8f4331e2af] [info] GET /resume HTTP/1.1
+[1584969945820] [48eeb30f-2964-40d3-b64e-2cd3713ba29b] [info] GET /resume HTTP/1.1
+[1584969946399] [0b83f6f7-6e46-4448-a178-0fb8d12f890a] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969947283] [d3bb4ed0-c330-478c-8c8b-056d4191ae92] [warn] RestClient::Conflict: 409 Conflict
+[1584969947405] [3ef576aa-0668-4532-9e37-1b4a63cac4a8] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969947810] [37cfef79-e5e0-4126-9a46-a76d9af2206e] [info] GET /reset.css HTTP/1.1
+[1584969948384] [59f56d81-59d2-43b2-9b4b-f134dfe673dc] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584969948863] [11e27e73-c95a-4d3f-a28a-a89a6efac4f2] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969949368] [1eea621b-9b72-4092-8368-1bdd3b9d486f] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969949417] [7591f774-1c17-46a7-bdc9-3e59a6ff0d1b] [info] GET /resume HTTP/1.1
+[1584969950191] [5c0da82d-88ca-4197-b68e-0d186cd62599] [info] GET /reset.css HTTP/1.1
+[1584969950981] [e2c7b2a4-abac-4ee4-bfc5-bef2c585e7a9] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969951646] [d45210df-45c2-469d-9295-3da445249824] [info] GET /resume HTTP/1.1
+[1584969951845] [a78b38fb-8f5a-4f42-bde7-6c32f173ff39] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969952321] [24ce95c7-e856-4cbe-a9ad-389df0fa0a14] [info] GET /resume HTTP/1.1
+[1584969953207] [917a0893-eebc-4345-a6c4-0960a14eb982] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969953597] [d2660d63-c7f9-4941-8bef-b6157468f9e6] [info] GET /projects/tool/tool HTTP/1.1
+[1584969954358] [a987acbb-71ea-4c7b-9335-8f6b4eb3eca3] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969954449] [3a791358-abb0-48da-8770-b0d5ed649092] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969955343] [afaa65f7-9a25-481b-8c9a-5169710c4bca] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969955859] [306a1d65-9291-4787-b95a-2aea35273631] [error] ActiveRecord::RecordNotFound: Couldn't find Model with id=#{RANDOM}
+[1584969956736] [9030a6e1-7cee-4428-b632-64ae66e726ff] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969957016] [c9ddcd02-a81c-4965-92b4-736cca3138bc] [info] GET /resume HTTP/1.1
+[1584969957888] [85a8b0c8-75e8-405f-a1a5-5b0996504061] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969958656] [5372c211-f939-4037-86f7-fd002d897ad9] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969958758] [41d49730-6674-4b00-94d5-4ae6f325ab0c] [info] GET /favicon.ico HTTP/1.1
+[1584969959681] [352751bd-4b51-4267-a70d-7c6d5158c399] [info] GET /reset.css HTTP/1.1
+[1584969960558] [1f8dbc92-732d-441d-ad17-92fbdb9ef06d] [info] GET /favicon.ico HTTP/1.1
+[1584969960712] [a52ff3c3-e612-443d-9418-3151c9771011] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969961347] [4ed383de-a2c3-4f49-a5b0-8d1db56178a6] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969961687] [74ca881f-2961-48fa-899e-9cdfa15cd127] [warn] RestClient::Conflict: 409 Conflict
+[1584969961910] [26a6ee20-f7de-494e-a41e-6ed52b161753] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969962224] [c2a67bda-07ba-440a-b991-477d2d8aed0d] [info] GET /resume HTTP/1.1
+[1584969962565] [d1bb7034-c838-4313-a8d9-27203cd4ff42] [info] GET /reset.css HTTP/1.1
+[1584969963477] [52ce1016-0753-42fe-8e65-7faaa90e399e] [info] GET /projects/tool/tool HTTP/1.1
+[1584969964333] [6c67d0c0-2ce5-4b2a-94a3-a18bcad50187] [info] GET /reset.css HTTP/1.1
+[1584969964723] [4680af62-b1c4-4db2-a2e2-d0ffb3458881] [error] RestClient::Exceptions::OpenTimeout: Timed out connecting to server
+[1584969965662] [d039c95e-0e0d-45d7-ac3a-9612264b2fc2] [info] GET /resume HTTP/1.1
+[1584969965939] [7cf0282d-1c53-4ed3-b756-83488c9bf456] [info] GET /projects/tool/tool HTTP/1.1
+[1584969966495] [8312b4d1-9ead-4232-836f-a65f7fc0f709] [info] GET /resume HTTP/1.1
+[1584969966577] [0bffddd6-91c2-4edd-bd29-499e2d1d9352] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969967188] [aaa9336c-3597-4cee-b7f1-d4673256af5a] [info] GET /favicon.ico HTTP/1.1
+[1584969967956] [06635d9c-7d22-4dbc-bc89-a14996a60fa8] [info] GET /reset.css HTTP/1.1
+[1584969968542] [e0f5110a-ddef-4487-8843-df2e272c2b78] [info] GET /reset.css HTTP/1.1
+[1584969968882] [12ba9602-7156-46fb-b7db-2d52e6346127] [info] GET /projects/tool/tool HTTP/1.1
+[1584969969415] [d8fc2314-56f4-46ba-82fa-1731211a339a] [info] GET /reset.css HTTP/1.1
+[1584969970249] [d92b6927-a3a2-4e63-9dae-22011190b1b3] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969970411] [fe429b26-ea2b-4c56-a7e6-1cd5e4a79e2c] [warn] AccessDenied: You are not authorized to access this page
+[1584969970432] [4d8b5a2e-2439-4ca3-9338-4e6b4793fcbb] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969971017] [828dd007-7248-4699-8450-e27bc052a761] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969971992] [ec977244-c8e3-4914-9ccb-82c35d3a20a6] [warn] AccessDenied: You are not authorized to access this page
+[1584969972383] [4c774f8f-206d-4607-b989-02623d4686a7] [warn] RestClient::Conflict: 409 Conflict
+[1584969973334] [8703f358-6b1d-4fb3-a7f4-b425ff0dafab] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969973739] [6ba4d4d5-23cf-476d-b462-e10b20616852] [error] CSV::MalformedCSVError: Illegal quoting in line #{RANDOM}
+[1584969973993] [5d8da511-f768-468b-b4e0-6ac21b7ce2c5] [info] GET /reset.css HTTP/1.1
+[1584969974375] [ff545d07-1eca-4f77-a88c-7cef29c8c3c0] [info] GET /favicon.ico HTTP/1.1
+[1584969974861] [2304aa26-a1d9-4556-8ba9-4b27fc28527e] [error] Elasticsearch::Transport::Transport::Errors::NotFound: [404]
+[1584969975089] [1e27d299-3ef7-4d84-9299-cf4b5f0d2b3c] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584969975384] [e4531acf-9e7f-4506-85a2-d8e793f73716] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969975811] [f9f917ab-d11a-4b62-b418-12c59544ac86] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969976509] [0af3909b-d64b-46ed-a893-ecd9a935a84c] [error] RestClient::InternalServerError: 500 Internal Server Error
+[1584969976599] [e194319e-81e4-45aa-b1d1-e0eb720ecb96] [info] GET /favicon.ico HTTP/1.1
+[1584969977530] [b3782a73-a800-4d54-b730-fb323f47f512] [info] GET /favicon.ico HTTP/1.1
+[1584969978409] [bbe6e306-4310-4272-a1c2-405bf08099cc] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969978948] [135f43a7-9a31-486c-8ed1-041bea129e90] [info] GET /resume HTTP/1.1
+[1584969979703] [eb938fb1-9b61-40cd-b49c-76344a40cf3c] [info] GET /favicon.ico HTTP/1.1
+[1584969980480] [b7a51a41-417b-42fe-84d9-0e3225249ef2] [error] URI::InvalidURIError: URI must be ascii only
+[1584969981001] [b43c1036-c99a-427e-a9e8-7cd698f1a72e] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969981375] [0e0e3370-4613-462e-9a3e-a0c81c82fc83] [info] GET /resume HTTP/1.1
+[1584969981898] [f250ade2-91eb-4b11-a9de-1f37b5520025] [info] GET /reset.css HTTP/1.1
+[1584969982844] [28f6fe59-9dd7-4b58-aa2e-3efe463fb1bf] [info] GET /projects/tool/tool HTTP/1.1
+[1584969983626] [95f7d232-b62f-4c58-9cd7-30a9ac816451] [info] GET /reset.css HTTP/1.1
+[1584969984475] [1d7f4372-217f-4b0b-9620-c5596d5ae347] [info] GET /resume HTTP/1.1
+[1584969985170] [53238347-70f0-4dd2-bd13-94a2bd2bd921] [warn] AccessDenied: You are not authorized to access this page
+[1584969986015] [a8c2cd0b-ef8b-42ae-bc4b-ac72cd48fff6] [warn] AccessDenied: You are not authorized to access this page
+[1584969986085] [ee588fb1-fa2c-4cc7-ba9a-534e1c832500] [info] GET /favicon.ico HTTP/1.1
+[1584969986116] [c8587b53-c4ef-43f5-b5fb-2a295c46459f] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969986862] [0e3abf2d-b39a-4002-9c7f-1951278f8f20] [info] GET /projects/tool/tool HTTP/1.1
+[1584969987032] [323f4990-cbd8-4a27-a783-bbc55b0e82d7] [info] GET /reset.css HTTP/1.1
+[1584969987476] [12410917-45c6-4d44-a633-cf3cb61a3e50] [warn] RestClient::Conflict: 409 Conflict
+[1584969988119] [6ed531ba-e11c-430a-b2f7-d65a87eedff8] [error] RestClient::Exceptions::OpenTimeout: Timed out connecting to server
+[1584969988200] [8454c502-b875-47e2-9f04-68998a97e3ba] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969989049] [0d3e01f8-4e5b-4dde-9e25-8a61cf1ff8f4] [info] GET /favicon.ico HTTP/1.1
+[1584969989288] [d9e2bc24-aee2-48ea-913d-38202c17cfe5] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969989661] [96e69f38-1b8a-4b63-9a0f-ee66a9bc7200] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584969990057] [52d22697-3e24-48d6-bd0b-0c5aaf9e1b22] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969990083] [7a00e86d-256e-45ac-9300-a730a61d7a43] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969990685] [076e9381-a06f-4ebe-9771-0b0f01230fd6] [info] GET /favicon.ico HTTP/1.1
+[1584969990831] [0982a2f1-2224-4d55-9fa5-ab81fce79186] [info] GET /resume HTTP/1.1
+[1584969990924] [c1613063-c845-44ad-a892-441beb5863ae] [info] GET /favicon.ico HTTP/1.1
+[1584969991181] [5f7b4803-e424-40ff-b422-e9d7a72521fa] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969992074] [b46eb500-fd67-4d1c-bac5-a48444835dc4] [info] GET /projects/tool/tool HTTP/1.1
+[1584969992217] [5b2b412f-de2f-4266-a33f-e3e4b7f0d0b1] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969992529] [fd357fe6-9335-45e5-a057-7828fe57f1d1] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969993422] [c5b3e3b3-ee74-4dbd-8068-5ef7fb933370] [warn] RestClient::BadRequest: 400 Bad Request
+[1584969993887] [c4169167-37cb-4f5e-85b4-4afb9549f2d0] [info] GET /projects/tool/tool HTTP/1.1
+[1584969994854] [880872cf-9ae0-4d6c-9572-dfc5c18dc614] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969995744] [61bdbe30-ff52-4b24-ba07-7528d5700d87] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969995789] [0729a2fe-fd2e-4de4-9d1e-2088c53ce2ae] [error] JSON::ParserError: #{RANDOM}: unexpected token at #{RANDOM}
+[1584969996069] [2c60fb3d-120e-401f-80c7-2f5c0978efee] [info] GET /resume HTTP/1.1
+[1584969996789] [0c927d24-f022-4fb9-aab3-a9ca19eeb6ca] [error] URI::InvalidURIError: URI must be ascii only
+[1584969996927] [3b859519-a0a9-408b-8023-2bc93ed06b08] [info] GET /blog/tags/puppet HTTP/1.1
+[1584969997234] [a4951de8-e2f0-4cea-b9cf-693551747058] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584969997916] [9cf8cea0-1888-4197-8f81-d4c311f10290] [warn] AccessDenied: You are not authorized to access this page
+[1584969997918] [f5d86022-0abc-4e5e-a194-6b07b1ca61b5] [warn] RestClient::Conflict: 409 Conflict
+[1584969998457] [b36cd4e0-3fb9-4251-9fdd-a22dda92a058] [warn] AccessDenied: You are not authorized to access this page
+[1584969999377] [8b69d3a9-353e-4ef4-ab61-6dc7339f8dfc] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584970000343] [ae1e0038-0401-44dd-875e-0cc1bee171c9] [error] ActiveRecord::RecordNotFound: Couldn't find Model with id=#{RANDOM}
+[1584970000653] [22ecf460-57ac-45fc-a1ae-d64ea8cf0222] [warn] RestClient::BadRequest: 400 Bad Request
+[1584970001649] [bfb45bb7-ffb6-4b60-897d-6775998ca5c8] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584970001740] [afc0f667-d7a6-4819-9823-7f221f847b05] [warn] RestClient::BadRequest: 400 Bad Request
+[1584970002362] [b0e47342-4517-425c-bb80-699b34dd5d24] [warn] Job #{RANDOM} has failed and won't be retried anymore
+[1584970002423] [d486ae7d-8c08-4a4a-a57f-cf7815934ad4] [info] GET /projects/tool/tool HTTP/1.1
+[1584970002777] [d3d3c2a4-8899-49ae-a6eb-8a4e80513ae7] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584970003395] [10f9ad65-4f25-40d1-9d9b-55f0c3d4cf86] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584970003658] [998d2ad8-d302-4218-baa1-cadd2ff0f21b] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584970004658] [fc9a6b45-a0f9-468a-92d5-0f961f3632e2] [info] GET /resume HTTP/1.1
+[1584970004809] [2161f8b1-4d86-4a84-83c2-bbc9f9c1aaef] [info] GET /projects/tool/tool HTTP/1.1
+[1584970005219] [86375c05-e23d-4250-957c-cc761a47bed3] [error] URI::InvalidURIError: URI must be ascii only
+[1584970006141] [1be7d7ca-51c6-4c39-b630-ebb2c63f059b] [warn] RestClient::BadRequest: 400 Bad Request
+[1584970006353] [9b2dda04-19af-40f9-9781-12136da91540] [error] URI::InvalidURIError: URI must be ascii only
+[1584970006975] [958e322e-dd47-4760-b391-940509cc1f3d] [info] GET /reset.css HTTP/1.1
+[1584970007351] [ed36e132-9086-4e7e-b2e7-7bed70130d05] [info] GET /projects/tool/tool HTTP/1.1
+[1584970007507] [ed7eb36c-9c06-447f-ad94-45072e721efa] [error] RestClient::InternalServerError: 500 Internal Server Error
+[1584970008057] [7871f513-d43b-49f8-b387-8970399d867d] [warn] RestClient::BadRequest: 400 Bad Request
+[1584970008584] [176ccf8c-fa07-449c-91c0-d07997b852a3] [error] URI::InvalidURIError: URI must be ascii only
+[1584970008831] [0a175118-7a2d-4f83-98c7-10ea5a21a808] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584970009240] [d5ac6964-e811-4937-aba0-6bad1cf5ce25] [warn] RestClient::BadRequest: 400 Bad Request
+[1584970009767] [71a13b8c-2adc-4383-b686-9271b37d4630] [warn] AccessDenied: You are not authorized to access this page
+[1584970010564] [8b074bc4-5aac-4e06-94d8-5f3932f3a65f] [warn] AccessDenied: You are not authorized to access this page
+[1584970011379] [b519f6ad-6f26-4574-a8b2-0a09a740b90e] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584970011712] [79a673ca-a047-482d-9290-5b0a26cb4000] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584970012472] [aefa43db-1788-4755-93a0-c5e49307d549] [info] GET /favicon.ico HTTP/1.1
+[1584970013263] [d3bcff4d-a95d-4e8a-b091-d56e2b488c46] [info] GET /blog/tags/puppet HTTP/1.1
+[1584970013868] [8946ecd7-d8a3-4e6b-9083-35430d386bda] [info] GET /reset.css HTTP/1.1
+[1584970014317] [6344ce67-f6f4-4b1d-97cd-c98d07f889fb] [warn] RestClient::BadRequest: 400 Bad Request
+[1584970014619] [bcf119ac-07a3-4bc5-8350-eb17a510341a] [info] GET /blog/tags/puppet HTTP/1.1
+[1584970015461] [e8fa57c0-726b-4ade-b8d2-64a17b2c4dc1] [info] GET /projects/tool/tool HTTP/1.1
+[1584970016337] [f20d5cd2-55c9-4a25-b99e-144926c70a40] [error] ActiveRecord::RecordNotFound: Couldn't find Model with id=#{RANDOM}
+[1584970016455] [7f0a1ff7-4095-421c-8eb8-0bc4208bce5a] [info] GET /blog/tags/puppet HTTP/1.1
+[1584970017097] [67d8a3f5-aa77-49b4-8e8e-bbfe0bf17c4c] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584970017949] [5d4c9a26-b52b-4452-a5b0-0d8a273e9d47] [warn] AccessDenied: You are not authorized to access this page
+[1584970018724] [b828d3ee-5659-48ff-bae7-915683ee8f4f] [info] GET /blog/tags/puppet HTTP/1.1
+[1584970019571] [4f232b44-418a-4570-86de-c8eceaa1fe97] [info] GET /projects/tool/tool HTTP/1.1
+[1584970020096] [2c42ce3a-9490-4447-aca5-89746dd9a66d] [error] CSV::MalformedCSVError: Illegal quoting in line #{RANDOM}
+[1584970020722] [ec2e0494-eed8-4cbc-96c0-0b6ecc829129] [info] GET /reset.css HTTP/1.1
+[1584970020918] [664ef113-deee-43a0-ad63-cc3b0f3864f7] [info] GET /resume HTTP/1.1
+[1584970021671] [c9072533-18b6-4c09-ac0d-225eb07d5c96] [info] GET /favicon.ico HTTP/1.1
+[1584970021932] [700ba245-d27b-492a-a228-ae6a386427c7] [error] RestClient::Exceptions::OpenTimeout: Timed out connecting to server
+[1584970022821] [10ed5864-dbb8-4b8c-9b37-a4682fb0064b] [info] GET /projects/tool/tool HTTP/1.1
+[1584970023627] [9cc7ddef-bbbc-40af-9319-24825c9ae97b] [info] GET /reset.css HTTP/1.1
+[1584970024501] [e2e231c5-9d69-4f54-ab1c-86a0c31d90b2] [warn] RestClient::BadRequest: 400 Bad Request
+[1584970025447] [ec7c6acf-fa77-4d71-b1de-81232ba42025] [info] GET /favicon.ico HTTP/1.1
+[1584970026394] [e2be2432-329a-4cf1-9680-04df91a6c990] [error] Errno::ECONNRESET: Connection reset by peer - SSL_connect
+[1584970027061] [adf98efb-ee7b-4b4c-92a3-109c6e13384c] [info] GET /blog/tags/puppet HTTP/1.1
+[1584970027160] [9ff468af-a370-4d1d-9307-e02e7de8d072] [info] GET /blog/gee/sparsa2006 HTTP/1.1
+[1584970027475] [03b8536b-62ca-4349-b0cc-974880c90fe7] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584970027781] [063c3551-3354-4606-bd43-5bfa4951e2d8] [info] GET /reset.css HTTP/1.1
+[1584970028533] [2a8dbab7-8b51-4d2f-b08b-15cab0e5e374] [info] GET /blog/tags/puppet HTTP/1.1
+[1584970028830] [f9f4d756-79fc-4187-be00-b494f244e07e] [error] Elasticsearch::Transport::Transport::Errors::NotFound: [404]
+[1584970029449] [511d80fe-493e-482d-8ae1-9d692d904290] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584970029941] [1e0319e6-8308-42ed-9c6a-4c6c4b5317d4] [warn] RestClient::Unauthorized: 401 Unauthorized
+[1584970030882] [491e0ab8-f263-49ba-8256-b75af5526107] [info] GET /resume HTTP/1.1
+[1584970031274] [1bce3867-74bb-40d9-a394-0d6048cd8ba6] [info] GET /reset.css HTTP/1.1
+[1584970031938] [40c20d67-ece4-4c2b-96fd-6657f84406ef] [info] GET /favicon.ico HTTP/1.1
