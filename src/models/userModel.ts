@@ -6,7 +6,7 @@ const userSchema = new Schema({
     "token": String,
     "permissions": {
         type: [String],
-        enum: ['read', 'write'],
+        enum: ['read', 'create'],
         default: []
     },
     "isAdmin": Boolean

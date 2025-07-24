@@ -9,3 +9,5 @@ export type LogFilters = {
     to?: Date;
     uuid?: string;
 };
+
+export type Permission = 'read' | 'create';

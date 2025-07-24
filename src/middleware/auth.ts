@@ -14,8 +14,20 @@ export async function auth(req: Request, res: Response, next: NextFunction) {
         }
         (req as any).user = user;
         next();
-    } catch(err) {
+    } catch (err) {
         console.log("Error on auth:", err);
         return res.status(500).json({ error: 'Internal server error' });
     }
+}
+export function requireAdmin(req: Request, res: Response, next: NextFunction) {
+    const user = (req as any).user;
+    if (!user) {
+        return res.status(401).json({ error: 'User not authenticated' });
+    }
+
+    if (!user.isAdmin) {
+        return res.status(403).json({ error: 'Admin access required' });
+    }
+
+    next();
 }
