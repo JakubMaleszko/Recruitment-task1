@@ -8,6 +8,7 @@ const uri = process.env.MONGODB_URI || '';
 const port = process.env.PORT || 3000;
 const app = express();
 mongoose.connect(uri).then(() => console.log("MongoDB connected")).catch((err) => console.log("Error connecting to MongoDB:", err));
+app.use(express.json());
 
 app.use('/public', router);
 
