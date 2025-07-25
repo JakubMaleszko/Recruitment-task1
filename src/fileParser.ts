@@ -1,4 +1,3 @@
-import { time, timeStamp } from 'node:console';
 import fs from 'node:fs'
 import { LogFilters, LogRes } from './types';
 
