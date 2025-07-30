@@ -1,0 +1,21 @@
+services:
+  app:
+    build: .
+    ports: 
+      - "${PORT}:${PORT}"
+    env_file:
+      - .env
+    depends_on:
+      - mongo
+    command: yarn start
+
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+      - ./docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d:ro
+
+volumes:
+  mongo_data:

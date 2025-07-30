@@ -1,4 +1,19 @@
-## Zadania
+## Task 1
+Aplikacja używa:
+-  `node` 
+-  `yarn`
+-  `jest`
+- `docker`
+- `mongoDB`
+## Uruchamianie
+Do uruchomienia aplikacji potrzebny jest ustawienie zmiennych środowiskowych:
+
+- `PORT`
+- `MONGODB_URI`
+- `LOGS_PATH`
+
+
+## Instrukcja
 
 ## Wymagania
 

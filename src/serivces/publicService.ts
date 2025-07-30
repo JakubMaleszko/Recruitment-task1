@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { logParser } from "../fileParser";
 
-let filePath = process.env.LOG || '';
+let filePath = process.env.LOGS_PATH || '';
 export const getByTimestamp = async (req: Request, res: Response) => {
     const from = req.query.from as string | undefined;
     const to = req.query.to as string | undefined;
