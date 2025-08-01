@@ -1,136 +1,136 @@
-## Task 1
-Aplikacja używa:
--  `node` 
--  `yarn`
--  `jest`
-- `docker`
-- `mongoDB`
-## Uruchamianie
-Do uruchomienia aplikacji potrzebny jest ustawienie zmiennych środowiskowych:
+# Recruitment-task1
 
-- `PORT`
-- `MONGODB_URI`
-- `LOGS_PATH`
+This application uses the following technologies:
+-  `Node.js`
+-  `Yarn`
+-  `Jest` – for testing
+-  `Docker` and `Docker Compose` – for containerization
+-  `MongoDB` – db
+---
 
+  
 
-## Instrukcja
+## Required Environment Variables
 
-## Wymagania
+  
 
-Prosimy użyć:
+Before running the application, make sure to set the following environment variables:
 
-- `node` (najlepiej LTS obecnej wersji)
-- `yarn`
-- `jest`
+  
 
-### Obowiązkowym wymogiem jest opublikowanie aplikacji w jednej z popularnych usług hostingowych np. Heroku, AWS itp.
+-  `PORT` – the port your application will run on
+-  `MONGODB_URI` – the URI for your [MongoDB](https://www.mongodb.com/) instance
+-  `LOGS_PATH` – the path where logs are stored
 
-### Seedowanie bazy danych
+  
 
-Seedy znajdują się w`data/users.json`. Format jest ściśle powiązany z mongodb, ale możesz go dowolnie dostosować i użyć w wybranej bazie danych.
+---
 
-### Plik z logami
+  
 
-Przykładowy plik z logami znajduje się w`data/events.log`
+## Installing Dependencies
 
-## Zadanie
+  
 
-### Część 1
+If you're running the app locally:
 
-Twoim zadaniem jest stworzenie mikroserwisowej aplikacji, która pozwoli autoryzowanym żądaniom odczytać logi przetwarzane przez serwer aplikacji.
+  
 
-Dodatkowe informacje:
-* Poświadczenia znajdują się w pliku users.json w folderze danych w tym repozytorium
-* Na potrzeby aplikacji wykorzystujemy wygenerowany plik events.log z przykładami znajdujący się w folderze danych w tym repozytorium. Struktura logów wygląda następująco:
-
-Przykładowy wpis:
-
-| timestamp | UUIDv4 | type | message |
-|---|---|---|---|
-| 1584969745903 | eab576a7-ea7f-4ce1-acfb-4e97d3a4a5bb | warn | AccessDenied: You are not authorize |
-
-Wykonaj następujące żądania:
-
-1. Możliwość pobrania całej listy logów lub określonego zakresu od / do na podstawie sygnatury czasowej
-```
-Request:
-  Header:
-  authorization-token: String (UUIDv4)
-  GET /public/logs?from=...&to=...
-Response:
-  [
-    {
-      uuid:    String (UUIDv4)
-      time:    String (format ISO)
-      type:    String (info|warn|error)
-      message: String
-    }
-  ]
-  Status: 200
-```
-2. Możliwość wyszukania konkretnego wpisu z podanym UUID
+```bash
+yarn  install
 ```
 
-Request:
-  Header:
-  authorization-token: String (UUIDv4)
-  GET /public/logs/:uuid
-Response:
-  {
-    time:    String (format ISO)
-    type:    String (info|warn|error)
-    message: String
-  }
-  Status: 200
-```
-3. Możliwość tworzenia przez administratora nowego użytkownika (nie będącego administratorem) z listą uprawnień (tylko uprawnienia do odczytu i tworzenia powinny być możliwe)
-```
-Request:
-  Header:
-  authorization-token: String (UUIDv4)
-  POST /internal/users
-  Body:
-  {
-    username:    String
-    permissions: [String] (read|create)
-  }
-Response:
-  {
-    username:    String
-    token:       String   (UUIDv4)
-    permissions: [String] (read|create)
-  }
-  Status: 201
+## Running the application
+
+To build use:
+```bash
+yarn  build
 ```
 
-Oceniane będzie, czy:
-* Twoje rozwiązanie realizuje założenia zadania
-* Twój kod jest spójny lub używa lintera
-* aplikacja jest objęta zakresem do tego stopnia, że możemy założyć, że wiesz, jak pisać specyfikacje
-* unikasz kodu proceduralnego
-* wnioski są prawidłowo obsługiwane
-* Struktura git jest spójna
-* struktura projektu jest dobrze przemyślana
-* wyjątki są prawidłowo obsługiwane
-* dane wejściowe są zatwierdzone
+To build and run:
 
-Możesz również zdobyć dodatkowe punkty, jeśli Twoje rozwiązanie będzie w jakiś sposób niezwykłe i będzie wykorzystywać najlepsze praktyki
+```bash
+yarn  start
+```
+To run in watch mode :
 
-### Część 2
+```bash
+yarn  dev
+```
 
-Kierownictwo zdecydowało się na dokeryzację aplikacji. Twoim zadaniem jest przygotowanie aplikacji z zadania nr 1 tak, aby działała w środowisku deweloperskim w kontenerze Docker.
+## Testing application
 
-Chcemy mieć możliwość zmiany parametrów połączenia z bazą danych w zależności od środowiska (rozwój / test)
+To run tests locally use:
 
-Rezultatem powinien być skrypt, który pozwoli:
-* uruchomić działający serwer aplikacji w kontenerze
-* uruchomić testy aplikacji w kontenerze
+```bash
+yarn  test
+```
 
-na przykład przy pomocy docker-compose
+  
 
-Oceniane będzie, czy:
-* Twoje rozwiązanie realizuje założenia zadania
-* Moduły npm są poprawnie buforowane podczas budowania obrazu Dockera
-* zmienne środowiskowe są przekazywane poprawnie
+## Running with Docker
 
-Możesz również zdobyć dodatkowe punkty, jeśli Twoje rozwiązanie będzie w jakiś sposób niezwykłe i będzie wykorzystywać najlepsze praktyki
+Build and start the full environment:
+
+```bash
+docker  compose  up  --build
+```
+
+Run tests inside the application container:
+
+```bash
+docker  compose  run  app  yarn  test
+```
+
+
+##  API Endpoints
+
+### GET `/public/logs?from=...&to=...`
+
+Fetches all logs or a specific range of logs based on timestamp.
+
+**Headers:**
+- `authorization-token: UUIDv4`
+
+**Query Parameters:**
+- `from` – ISO timestamp (optional)
+- `to` – ISO timestamp (optional)
+- 
+**Returns**
+- `uuid` - log identifier
+- `time` - log timestamp
+- `type` - type of log ( info | warn | error )
+- `message` - log message
+---
+
+### GET `/public/logs/:uuid`
+Fetches a single log entry by its UUID.
+
+**Headers:**
+- `authorization-token: UUIDv4`
+
+**Path Parameters:**
+- `uuid` - identifier of log 
+
+**Returns:**
+- `time` - time in ISO format
+- `type` - type of log ( info | warn | error )
+- `message` - log message
+---
+### POST /internal/users
+Allows an administrator to create a new non-admin user with specified permissions.
+
+**Headers:**
+- `authorization-token: UUIDv4`
+
+**Request Body:**
+```json
+{
+  "username": "Username",
+  "permissions": ["read", "create"]
+}
+```
+**Returns:**
+- `username` 
+- `token` - UUID token for authorization
+- `permission` - User permissions
